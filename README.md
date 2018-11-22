@@ -1,2 +1,2 @@
 # first_plugin_test
-test
+test test2
